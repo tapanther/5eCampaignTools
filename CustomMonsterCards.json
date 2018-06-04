@@ -41,7 +41,7 @@
       "property | Languages | Druidic plus any two languages",
       "property | Challenge | 12 (8,400 XP)",
       "section | Traits",
-      "text | <p><em><strong></strong></em> </p><p><em><strong>Spellcasting.</strong></em> The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:<p><p>Cantrips (at will): druidcraft, mending, poison spray, produce flame</p><p> 1st level (4 slots): cure wounds, entangle, faerie fire, speak with animals</p><p> 2nd level (3 slots): animal messenger, beast sense, hold person</p><p> 3rd level (3 slots): conjure animals, meld into stone, water breathing</p><p> 4th level (3 slots): dominate beast, locate creature, stoneskin, wall of fire</p><p> 5th level (3 slots): commune with nature, mass cure wounds, tree stride</p><p> 6th level (1 slots): heal, heroes' feast, sunbeam</p><p> 7th level (1 slots): fire storm</p><p> 8th level (1 slots): animal shapes</p><p> 9th level (1 slots): foresight</p>",
+      "text | <p><em><strong>Spellcasting.</strong></em> The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:</p><p>Cantrips (at will): druidcraft, mending, poison spray, produce flame</p><p> 1st level (4 slots): cure wounds, entangle, faerie fire, speak with animals</p><p> 2nd level (3 slots): animal messenger, beast sense, hold person</p><p> 3rd level (3 slots): conjure animals, meld into stone, water breathing</p><p> 4th level (3 slots): dominate beast, locate creature, stoneskin, wall of fire</p><p> 5th level (3 slots): commune with nature, mass cure wounds, tree stride</p><p> 6th level (1 slots): heal, heroes' feast, sunbeam</p><p> 7th level (1 slots): fire storm</p><p> 8th level (1 slots): animal shapes</p><p> 9th level (1 slots): foresight</p>",
       "section | Actions",
       "text | <p><em><strong>Scimitar.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) slashing damage.</p><p><em><strong>Change Shape (2/Day).</strong></em> The archdruid magically polymorphs into a beast or elemental with a challenge rating of 6 or less, and can remain in this form for up to 9 hours. The archdruid can choose whether its equipment falls to the ground, melds with its new form, or is worn by the new form. The archdruid reverts to its true form if it dies or falls unconscious. The archdruid can revert to its true form using a bonus action on its turn.</p><p>While in a new form, the archdruid retains its game statistics and ability to speak, but its AC, movement modes, Strength, and Dexterity are replaced by those of the new form, and it gains any special senses, proficiencies, traits, actions, and reactions (except class features, legendary actions, and lair actions) that the new form has but that it lacks. It can cast its spells with verbal or somatic components in its new form.</p><p>The new form’s attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.</p>"
     ],
@@ -334,9 +334,9 @@
     "title": "Death Knight",
     "icon": "imp-laugh",
     "contents": [
-      "subtitle | Medium Undead, Chaotic Evil",
+      "subtitle | Medium undead, Chaotic Evil",
       "rule",
-      "property | Armor class | 20 (Plate Shield)",
+      "property | Armor class | 20 (Plate, Shield)",
       "property | Hit points | 180 (19d8 + 95)",
       "property | Speed | 30 ft. ",
       "rule",
@@ -349,11 +349,11 @@
       "property | Languages | Abyssal, Common",
       "property | Challenge | 17 (18,000 XP)",
       "section | Traits",
-      "text | <p><em><strong>Magic Resistance.</strong></em> The Death Knight has advantage on saving throws against spells and other magical effects.</p><p><em><strong>Marshal Undead.</strong></em> Unless the Death Knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.</p><p><em><strong>Spellcasting.</strong></em> The Death Knight is a 19th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared: </p><p>1st level (4 slots): command, compelled duel, searing smite</p><p>2nd level (3 slots): hold person, magic weapon</p><p>3rd level (3 slots): dispel magic, elemental weapon</p><p>4th level (3 slots): banishment, staggering smite</p><p>5th level (2 slots): destructive wave (necrotic)</p>",
+      "text | <p><em><strong>Undead Nature.</strong></em> A death knight doesn’t require air, food, drink, or sleep.</p><p><em><strong>Magic Resistance.</strong></em> The death knight has advantage on saving throws against spells and other magical effects.</p><p><em><strong>Marshal Undead.</strong></em> Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.</p><p><em><strong>Spellcasting.</strong></em> The death knight is a 19th-level spell caster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:<p><p>1st level (4 slots): command, compelled duel, searing smite</p><p>2nd level (3 slots): hold person, magic weapon</p><p>3rd level (3 slots): dispel magic. elemental weapon</p><p>4th level (3 slots): banishment, staggering smite</p><p>5th level (2 slots): destructive wave</p>",
       "section | Actions",
-      "text | <p><em><strong>Multiattack</strong></em> The Death Knight makes three longsword attacks.</p><p><em><strong>Longsword.</strong></em> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage..</p><p><em><strong>Hellfire Orb (1/Day).</strong><em> The Death Knight hurls a magical ball of fire that explodes at a point it can see within 120 feet of it. Each creature in a 20-foot radius sphere centered on that point must make a DC 18 Dexterity saving throw. The sphere spreads around corners. A creature takes 35 (10d6) necrotic damage ona  failed save, or half as much damage on a successful one.</p>",
+      "text | <p><em><strong>Multiattack.</strong></em> The death knight makes three longsword attacks.</p><p><em><strong>Longsword.</strong></em> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.</p><p><em><strong>Hellfire Orb (1/Day).</strong></em>  The death knight hurls a magical ball of fire that explodes at a point it can see within 120 feet of it. Each creature in a 20-foot-radius sphere centered on that point must make a DC 18 Dexterity saving throw. The sphere spreads around corners. A creature takes 35 (10d6) fire damage and 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one.</p>",
       "section | Reactions",
-      "text | <p><em><strong>Parry.</strong></em> The Death Knight adds 6 to its AC against one melee attack that would hit it. To do so, the Death Knight must see the attacker and be wielding a melee weapon.</p>"
+      "text | <p><em><strong>Parry.</strong></em> The death knight adds 6 to its AC against one melee attack that would hit it. To do so, the death knight must see the attacker and be wielding a melee weapon.</p>"
     ],
     "tags": [],
     "color": ""
@@ -376,7 +376,7 @@
       "section | Traits",
       "text | <p><em><strong>Avoidance.</strong></em> If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p><p><em><strong>Displacement.</strong></em> The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is incapacitated or has a speed of 0.</p>",
       "section | Actions",
-      "text | <p><em><strong>Multiattack.</strong></em> The displacer beast makes two attacks with its tentacles.</p><p><em><strong>Tentacle.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 10 ft., one target. <em>Hit:</em> 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage..</p>"
+      "text | <p><em><strong>Multiattack.</strong></em> The displacer beast makes two attacks with its tentacles.</p><p><em><strong>Tentacle.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 10 ft., one target. <em>Hit:</em> 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage.</p>"
     ],
     "tags": [],
     "color": ""
@@ -870,11 +870,12 @@
       "section | Traits",
       "text | <p><em><strong>Brave.</strong></em> The knight has advantage on saving throws against being frightened.</p>",
       "section | Actions",
-      "text | <p><em><strong>Multiattack.</strong></em> The knight makes two melee attacks. </p><p><em><strong>Greatsword.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) slashing damage. </p><p><em><strong>Heavy Crossbow.</strong></em> <em>Ranged Weapon Attack:</em> +2 to hit, range 100/400 ft., one target. <em>Hit:</em> 5 (1d10) piercing damage. </p><p><em><strong>Leadership (Recharges after a Short or Long Rest).</strong></em> For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.</p>",
+      "text | <p><em><strong>Multiattack.</strong></em> The knight makes two melee attacks.</p><p><em><strong>Greatsword.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) slashing damage.</p><p><em><strong>Heavy Crossbow.</strong></em> <em>Ranged Weapon Attack:</em> +2 to hit, range 100/400 ft., one target. <em>Hit:</em> 5 (1d10) piercing damage.</p><p><em><strong>Leadership (Recharges after a Short or Long Rest).</strong></em> For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.</p>",
       "section | Reactions",
       "text | <p><em><strong>Parry.</strong></em> The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.</p>"
     ],
-    "tags": []
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Kobold",
@@ -892,11 +893,12 @@
       "property | Languages | Common, Draconic",
       "property | Challenge | 1/8 (25 XP)",
       "section | Traits",
-      "text | <strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
+      "text | <p><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
       "section | Actions",
-      "text | <p><em><strong>Dagger.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage. </p><p><em><strong>Sling.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, range 30/120 ft., one target. <em>Hit:</em> 4 (1d4 + 2) bludgeoning damage.</p>"
+      "text | <p><em><strong>Dagger.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage.</p><p><em><strong>Sling.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, range 30/120 ft., one target. <em>Hit:</em> 4 (1d4 + 2) bludgeoning damage.</p>"
     ],
-    "tags": []
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Kobold Dragonshield",
@@ -917,7 +919,7 @@
       "section | Traits",
       "text | <p><em><strong>Dragon's Resistance.</strong></em> The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1-2, acid (black); 3-4, cold (white); 5-6, fire (red); 7-8, lightning (blue); 9-10, poison (green).</p><p><em><strong>Heart of the Dragon.</strong></em> If the kobold is frightened or paralyzed by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.</p><p><em><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
       "section | Actions",
-      "text | <p><em><strong>Multiattack.</strong></em> The kobold makes two melee attacks.</p><p><em><strong>Spear.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +3 to hit,reach 5ft. or range 20/60 ft., one target. <em>Hit:</em> 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack..</p>"
+      "text | <p><em><strong>Multiattack.</strong></em> The kobold makes two melee attacks.</p><p><em><strong>Spear.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +3 to hit,reach 5ft. or range 20/60 ft., one target. <em>Hit:</em> 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.</p>"
     ],
     "tags": [],
     "color": ""
@@ -939,7 +941,7 @@
       "property | Languages | Common, Draconic",
       "property | Challenge | 1 (200 XP)",
       "section | Traits",
-      "text | <p><em><strong>Spellcasting.</strong></em> The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:<p><p>Cantrips (at will): fire bolt, mage hand, mending, poison spray</p><p> 1st level (4 slots): charm person, chromatic orb, expeditious retreat</p><p> 2nd level (2 slots): scorching ray</p><p><em><strong>Sorcery Points.</strong></em> The kobold has 3 sorcery points. It can spend 1 or more sorcery points as a bonus action to gain one of the following benefits:</p><p><em>Heightened Spell:</em> When it casts a spell that forces a creature to a saving throw to resist the spell’s effects, the kobold can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.</p><p><em>Subtle Spell:</em> When the kobold casts a spell, it can spend 1 sorcery point to cast the spell without any somatic or verbal components.</p><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
+      "text | <p><em><strong>Spellcasting.</strong></em> The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:</p><p>Cantrips (at will): fire bolt, mage hand, mending, poison spray</p><p> 1st level (4 slots): charm person, chromatic orb, expeditious retreat</p><p> 2nd level (2 slots): scorching ray</p><p><em><strong>Sorcery Points.</strong></em> The kobold has 3 sorcery points. It can spend 1 or more sorcery points as a bonus action to gain one of the following benefits:</p><p><em>Heightened Spell:</em> When it casts a spell that forces a creature to a saving throw to resist the spell’s effects, the kobold can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.</p><p><em>Subtle Spell:</em> When the kobold casts a spell, it can spend 1 sorcery point to cast the spell without any somatic or verbal components.</p><p><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
       "section | Actions",
       "text | <p><em><strong>Dagger.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +4 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage.</p>"
     ],
@@ -1165,7 +1167,7 @@
     ],
     "tags": []
   },
-    {
+  {
     "title": "Orc Blade",
     "icon": "imp-laugh",
     "contents": [
@@ -1189,7 +1191,7 @@
     ],
     "tags": [],
     "color": ""
-    },
+  },
   {
     "title": "Orc Eye",
     "icon": "imp-laugh",

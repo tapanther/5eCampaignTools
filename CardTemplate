@@ -23,17 +23,20 @@ Passive Perception ",
       "section | Traits",
       "text | 
 <p><em><strong></strong></em> </p>
-<p><em><strong>Spellcasting.</strong></em> <p>
-<p>Cantrips (at will): </p>
-<p> 1st level ( slots): </p>
-<p> 2nd level ( slots): </p>
-<p> 3rd level ( slots): </p>
-<p> 4th level ( slots): </p>
-<p> 5th level ( slots): </p>
-<p> 6th level ( slots): </p>
-<p> 7th level ( slots): </p>
-<p> 8th level ( slots): </p>
-<p> 9th level ( slots): </p>
+<p><em><strong>Spellcasting.</strong></em> </p>
+<ul>\n
+<li>Cantrip (at will): </li>\n
+<li>1st level ( slots): </li>\n
+<li>2nd level ( slots): </li>\n
+<li>3rd level ( slot): </li>\n
+<li>4th level ( slot): </li>\n
+<li>5th level ( slot): </li>\n
+<li>6th level ( slot): </li>\n
+<li>7th level ( slot): </li>\n
+<li>8th level ( slot): </li>\n
+<li>9th level ( slot): </li>\n
+</ul>
+<p> </p>
 ",
       "section | Actions",
       "text | 
