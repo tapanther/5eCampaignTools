@@ -1,0 +1,28 @@
+  {
+    "title": "",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | , ",
+      "rule",
+      "property | Armor class |  ",
+      "property | Hit points | ",
+      "property | Speed |  ft. ",
+      "rule",
+      "dndstats |  |  |  |  |  | ",
+      "rule",
+      "property | Saving Throws | ",
+      "property | Skills | ",
+      "property | Damage Immunities | ",
+      "property | Damage Resistances | ",
+      "property | Condition Immunities | ",
+      "property | Senses | Passive Perception ",
+      "property | Languages | ",
+      "property | Challenge | ",
+      "section | Traits",
+      "text | <p><em><strong></strong></em> </p>",
+      "section | Actions",
+      "text | <p><em><strong></strong></em> <em>Melee Weapon Attack:</em> + to hit, reach 5 ft., one target. <em>Hit:</em>  ()  damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
