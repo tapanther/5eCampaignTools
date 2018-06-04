@@ -287,15 +287,15 @@
     "contents": [
       "subtitle | Medium monstrosity, Neutral Evil",
       "rule",
-      "property | Armor class |  12",
+      "property | Armor class | 12",
       "property | Hit points | 39 (6d8 + 12)",
-      "property | Speed |  40 ft. ",
+      "property | Speed | 40 ft. ",
       "rule",
       "dndstats | 15 | 14 | 14 | 3 | 13 | 6",
       "rule",
       "property | Skills | Perception +5, Stealth +4",
       "property | Senses | Darkvision 120 ft., Passive Perception 15",
-      "property | Languages | -",
+      "property | Languages | --",
       "property | Challenge | 1 (200 XP)",
       "section | Traits",
       "text | <p><em><strong>Two-Headed.</strong></em> The dog has advantage on Wisdom (Perception) checks and on saving throws against being Blinded, Charmed, Deafened, Frightened, Stunned, or knocked Unconscious.</p>",
@@ -329,6 +329,29 @@
       "text | <p><em><strong>Multiattack</strong></em> The Death Knight makes three longsword attacks.</p><p><em><strong>Longsword.</strong></em> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage..</p><p><em><strong>Hellfire Orb (1/Day).</strong><em> The Death Knight hurls a magical ball of fire that explodes at a point it can see within 120 feet of it. Each creature in a 20-foot radius sphere centered on that point must make a DC 18 Dexterity saving throw. The sphere spreads around corners. A creature takes 35 (10d6) necrotic damage ona  failed save, or half as much damage on a successful one.</p>",
       "section | Reactions",
       "text | <p><em><strong>Parry.</strong></em> The Death Knight adds 6 to its AC against one melee attack that would hit it. To do so, the Death Knight must see the attacker and be wielding a melee weapon.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Displacer Beast",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Large monstrosity, Lawful Evil",
+      "rule",
+      "property | Armor class | 13 (natural armor)",
+      "property | Hit points | 85 (10d10 + 30)",
+      "property | Speed | 40 ft. ",
+      "rule",
+      "dndstats | 18 | 15 | 16 | 6 | 12 | 8",
+      "rule",
+      "property | Senses | Darkvision 60 ft., Passive Perception 11",
+      "property | Languages | --",
+      "property | Challenge | 3 (700 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Avoidance.</strong></em> If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p><p><em><strong>Displacement.</strong></em> The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is incapacitated or has a speed of 0.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The displacer beast makes two attacks with its tentacles.</p><p><em><strong>Tentacle.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 10 ft., one target. <em>Hit:</em> 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage..</p>"
     ],
     "tags": [],
     "color": ""
@@ -424,6 +447,31 @@
       "text | <p><em><strong>Multiattack.</strong></em> The flameskull uses Fire Ray twice.</p><p><em><strong>Fire Ray.</strong></em> <em>Ranged Spell Attack:</em> +5 to hit, range 30 ft., one target. <em>Hit:</em> 10 (3d6) fire damage.</p>"
     ],
     "tags": []
+  },
+  {
+    "title": "Flind",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 16 (Chain Mail)",
+      "property | Hit points | 127 (15d8 + 60)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 20 | 10 | 19 | 11 | 13 | 12",
+      "rule",
+      "property | Saving Throws | CON +8, WIS +5",
+      "property | Skills | Intimidate +5, Perception +5",
+      "property | Senses | Darkvision 60 ft., Passive Perception 15",
+      "property | Languages | Gnoll, Abyssal",
+      "property | Challenge | 9 (5,000 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aura of Blood Thirst</strong></em> If the flind isn’t incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The flind makes three attacks: one with each of its different flail attacks or three with its longbow.</p><p><em><strong>Flail of Madness.</strong></em> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must make a melee attack against a random target within its reach on its next turn. If it has no targets within its reach even after moving, it loses its action on that turn.</p><p><em><strong>Flail of Pain.</strong></em> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d10 + 5) bludgeoning damage plus 22 (4d10) psychic damage.</p><p><em><strong>Flail of Paralysis.</strong></em> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.</p><p><em><strong>Longbow.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, range 150/600 ft., one target. <em>Hit:</em> 4 (1d8) piercing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Gelatinous Cube",
@@ -543,6 +591,125 @@
     "tags": []
   },
   {
+    "title": "Gnoll Fang",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium Fiend, Chaotic Evil",
+      "rule",
+      "property | Armor class | 14 (Hide Armor)",
+      "property | Hit points | 65 (10d8 + 20)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 17 | 15 | 15 | 10 | 11 | 13",
+      "rule",
+      "property | Saving Throws | CON +4, WIS +2, CHA +3",
+      "property | Senses | Darkvision 60 ft,. Passive Perception 10",
+      "property | Languages | Abyssal, Gnoll",
+      "property | Challenge | 4 (1,100 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Rampage.</strong></em> When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The gnoll makes three attacks: one with its bite and two with its claws.</p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) poison damage.</p><p><em><strong>Claw.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d8 + 3) slashing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Gnoll Flesh Gnawer",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 14 (Studded Leather Armor)",
+      "property | Hit points | 22 (4d8 + 4)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 12 | 14 | 12 | 8 | 10 | 8",
+      "rule",
+      "property | Saving Throws | DEX +4",
+      "property | Senses | Darkvision 60 ft., Passive Perception 10",
+      "property | Languages | Gnoll",
+      "property | Challenge | 1 (200 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Rampage.</strong></em> When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The gnoll makes three attacks: one with its bite and two with its shortsword.</p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage.</p><p><em><strong>Shortsword.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p><p><em><strong>Sudden Rush.</strong></em> Until the end of the turn, the gnoll's speed increases by 60 feet and it doesn't provoke opportunity attacks.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Gnoll Hunter",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 13 (Leather Armor)",
+      "property | Hit points | 22 (4d8 + 4)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 14 | 14 | 12 | 8 | 12 | 8",
+      "rule",
+      "property | Senses | Darkvision 60 ft., Passive Perception 13",
+      "property | Languages | Gnoll",
+      "property | Challenge | 1/2 (100 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Rampage.</strong></em> When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The gnoll makes two melee attacks with its spear or two ranged attacks with its longbow.</p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature. <em>Hit:</em> 4 (1d4 + 2) piercing damage. </p><p><em><strong>Spear.</strong></em> <em>Melee or <em>Ranged Weapon Attack:</em></em> +4 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack. </p><p><em><strong>Longbow.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, range 150/600 ft., one target. <em>Hit:</em> 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn.</p>"
+    ],
+    "tags": []
+  },
+  {
+    "title": "Gnoll Pack Lord",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 15 (Chain Shirt)",
+      "property | Hit points | 49 (9d8 + 9)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 16 | 14 | 13 | 8 | 11 | 9",
+      "rule",
+      "property | Senses | Darkvision 60 ft., Passive Perception 10",
+      "property | Languages | Gnoll",
+      "property | Challenge | 2 (450 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Rampage.</strong></em> When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The gnoll makes two attacks, either with its glaive or its longbow, and uses its Incite Rampage if it can.</p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d4 + 3) piercing damage.</p><p><em><strong>Glaive.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 10 ft., one target. <em>Hit:</em> 8 (1d10 + 3) slashing damage.</p><p><em><strong>Longbow.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, range 150/600 ft., one target. <em>Hit:</em> 6 (1d8 + 2) piercing damage.</p><p><em><strong>Incite Rampage (Recharges 5-6).</strong></em> One creature the gnoll can see within 30 feet of it can use its reaction to make a melee attack if it can hear the gnoll and has the Rampage trait.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Gnoll Witherling",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 12 (Natural Armor)",
+      "property | Hit points | 11 (2d8 + 2)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 14 | 8 | 12 | 5 | 5 | 5",
+      "rule",
+      "property | Damage Immunities | Poison",
+      "property | Condition Immunities | Exhaustion, Poisoned",
+      "property | Senses | Darkvision 60 ft., Passive Perception 7",
+      "property | Languages | understands Gnoll, but cannot speak",
+      "property | Challenge | 1/4 (50 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Rampage.</strong></em> When the witherling reduces a creature to 0 hit points with a melee attack on its turn, the witherling can take a bonus action to move up to half its speed and make a bite attack.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The witherling makes two attacks: one with its bite and one with its club, or two with its club.</p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature. <em>Hit:</em> 4 (1d4 + 2) piercing damage. </p><p><em><strong>Club.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) bludgeoning damage.</p>",
+      "section | Reactions",
+      "text | <p><em><strong>Vengeful Strike.</strong></em> In response to a gnoll being reduced to 0 hit points within 30 feet of teh witherling, the witherling makes a melee attack.</p>"
+    ],
+    "tags": []
+  },  
+  {
     "title": "Gray Ooze",
     "icon": "imp-laugh",
     "contents": [
@@ -660,29 +827,6 @@
     "color": ""
   },
   {
-    "title": "Jackal",
-    "icon": "imp-laugh",
-    "contents": [
-      "subtitle | Small beast, Unaligned",
-      "rule",
-      "property | Armor class | 12 ",
-      "property | Hit points | 3 (1d6)",
-      "property | Speed | 40 ft. ",
-      "rule",
-      "dndstats | 8 | 15 | 11 | 3 | 12 | 6",
-      "rule",
-      "property | Skills | Perception +3",
-      "property | Senses | Passive Perception 13",
-      "property | Languages | --",
-      "property | Challenge | 0 (10 XP)",
-      "section | Traits",
-      "text | <p><em><strong>Keen Hearing and Smell.</strong></em> The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell. </p><p><em><strong>Pack Tactics.</strong></em> The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>",
-      "section | Actions",
-      "text | <p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +1 to hit, reach 5 ft., one target. <em>Hit:</em> 1 (1d4 – 1) piercing damage.</p>"
-    ],
-    "tags": []
-  },
-  {
     "title": "Knight",
     "icon": "imp-laugh",
     "contents": [
@@ -723,11 +867,59 @@
       "property | Languages | Common, Draconic",
       "property | Challenge | 1/8 (25 XP)",
       "section | Traits",
-      "text | <p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. </p><p><em><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>",
+      "text | <strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
       "section | Actions",
       "text | <p><em><strong>Dagger.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage. </p><p><em><strong>Sling.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, range 30/120 ft., one target. <em>Hit:</em> 4 (1d4 + 2) bludgeoning damage.</p>"
     ],
     "tags": []
+  },
+  {
+    "title": "Kobold Dragonshield",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Small humanoid, Lawful Evil",
+      "rule",
+      "property | Armor class | 15 (Leather Armor)",
+      "property | Hit points | 44 (8d6 + 16)",
+      "property | Speed | 20 ft. ",
+      "rule",
+      "dndstats | 12 | 15 | 14 | 8 | 9 | 10",
+      "rule",
+      "property | Skills | Perception +1",
+      "property | Senses | Darkvision 60ft., Passive Perception 11",
+      "property | Languages | Common, Draconic",
+      "property | Challenge | 1 (200 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Dragon's Resistance.</strong></em> The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1-2, acid (black); 3-4, cold (white); 5-6, fire (red); 7-8, lightning (blue); 9-10, poison (green).</p><p><em><strong>Heart of the Dragon.</strong></em> If the kobold is frightened or paralyzed by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.</p><p><em><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The kobold makes two melee attacks.</p><p><em><strong>Spear.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +3 to hit,reach 5ft. or range 20/60 ft., one target. <em>Hit:</em> 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack..</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Kobold Scale Sorcerer",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Small humanoid, Lawful Evil",
+      "rule",
+      "property | Armor class | 15 (Natural Armor)",
+      "property | Hit points | 27 (5d6 + 10)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 7 | 15 | 14 | 10 | 9 | 14",
+      "rule",
+      "property | Skills | Arcana +2, Medicine +1",
+      "property | Senses | Darkvision 60ft., Passive Perception 9",
+      "property | Languages | Common, Draconic",
+      "property | Challenge | 1 (200 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Spellcasting.</strong></em> The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:<p><p>Cantrips (at will): fire bolt, mage hand, mending, poison spray</p><p> 1st level (4 slots): charm person, chromatic orb, expeditious retreat</p><p> 2nd level (2 slots): scorching ray</p><p><em><strong>Sorcery Points.</strong></em> The kobold has 3 sorcery points. It can spend 1 or more sorcery points as a bonus action to gain one of the following benefits:</p><p><em>Heightened Spell:</em> When it casts a spell that forces a creature to a saving throw to resist the spell’s effects, the kobold can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.</p><p><em>Subtle Spell:</em> When the kobold casts a spell, it can spend 1 sorcery point to cast the spell without any somatic or verbal components.</p><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p><p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Dagger.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +4 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Lich",
@@ -947,6 +1139,128 @@
       "text | <p><em><strong>Greataxe.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d12 + 3) slashing damage. </p><p><em><strong>Javelin.</strong></em> <em>Melee or <em>Ranged Weapon Attack:</em></em> +5 to hit, reach 5 ft. or range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>"
     ],
     "tags": []
+  },
+    {
+    "title": "Orc Blade",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 18 (Chain Mail, Shield)",
+      "property | Hit points | 60 (8d8 + 24)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 17 | 11 | 17 | 10 | 12 | 14",
+      "rule",
+      "property | Saving Throws | WIS +3",
+      "property | Skills | Insight +3, Intimidation +4, Perception +3",
+      "property | Senses | Darkvision 60 ft., Passive Perception 13",
+      "property | Languages | Common, Orc",
+      "property | Challenge | 4 (1,100 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aggressive.</strong></em> As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</p><p><em><strong>Foe Smiter of Ilneval.</strong></em> The orc deals an extra die of damage when it hits with a longsword attack (included in the attack).</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The orc makes two melee attacks with its longsword or two ranged attacks with its javelins. If Ilneval's Command is available to use, the orc can use it after these attacks.</p><p><em><strong>Longsword.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage when used with two hands.</p><p><em><strong>Javelin.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +5 to hit, reach 5 ft. or range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p><p><em><strong>Ilneval's Command (Recharges 4-6).</strong></em> Up to three allied orcs within 120 feet of this orc that ican hear it can use their reactions to each make one weapon attack.</p>"
+    ],
+    "tags": [],
+    "color": ""
+    },
+  {
+    "title": "Orc Eye",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 16",
+      "property | Hit points | 16 (Ring Mail, Shield)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 16 | 12 | 17 | 9 | 13 | 12",
+      "rule",
+      "property | Skills | Intimidation +3, Religion +1",
+      "property | Senses | Darkvision 60 ft., Passive Perception 11",
+      "property | Languages | Common, Orc",
+      "property | Challenge | 2 (450 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aggressive.</strong></em> As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</p><p><em><strong>Gruumsh's Fury.</strong></em> The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).</p><p><em><strong>Spellcasting.</strong></em>  The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:<p><p>Cantrips (at will): guidance, resistance, thaumaturgy</p><p> 1st level (4 slots): bless, command</p><p> 2nd level (2 slots): augury, spiritual weapon (spear)</p>",
+      "section | Actions",
+      "text | <p><em><strong>Spear.</strong></em> <em>Melee or Ranged Weapon Attack:</em> + to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Orc Claw",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 14 (Hide Armor)",
+      "property | Hit points | 45 (6d8 + 18)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 14 | 15 | 16 | 10 | 15 | 11",
+      "rule",
+      "property | Skills | Intimidation +2, Medicine +4, Survival +4",
+      "property | Senses | Darkvision 60 ft., Passive Perception 12",
+      "property | Languages | Common, Orc",
+      "property | Challenge | 2 (450 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aggressive.</strong></em> As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</p><p><em><strong>Spellcasting.</strong></em> The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:<p><p>Cantrips (at will): guidance, mending, resistance, thaumaturgy</p><p> 1st level ( slots): bane, cure wounds, guiding bolt</p><p> 2nd level ( slots): augury, warding bond</p><p> 3rd level ( slots): bestow curse, create food and water</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.</p><p><em><strong>Claw.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d8 + 2) slashing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Orc War Chief",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 16 (Chain Mail)",
+      "property | Hit points | 93 (11d8 + 44)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 18 | 12 | 18 | 11 | 11 | 16",
+      "rule",
+      "property | Saving Throws | STR +6, CON +6, WIS +2",
+      "property | Skills | Intimidation +5",
+      "property | Senses | Darkvision 60 ft., Passive Perception 10",
+      "property | Languages | Common, Orc",
+      "property | Challenge | 4 (1,100 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aggressive.</strong></em> As a bonus action, the or can move up to its speed toward a hostile creature that it can see.</p><p><em><strong>Gruumsh's Fury.</strong></em> The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The orc makes two attacks with its greataxe or its spear.</p><p><em><strong>Greataxe.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 15 (1d12 + 4 plus 1d8) slashing damage.</p><p><em><strong>Spear</strong></em> <em>Melee or Ranged Weapon Attack:</em> +6 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 12 (1d6 + 4 plus 1d8) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</p><p><em><strong>Battle Cry (1/Day)</strong></em> Each creature of the war chief’s choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the war chief’s next turn. The war chief can then make one attack as a bonus action.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Orog",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 18 (Plate Armor)",
+      "property | Hit points | 42 (5d8 + 20)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 18 | 12 | 18 | 12 | 11 | 12",
+      "rule",
+      "property | Skills | Intimidation +5, Survival +2",
+      "property | Senses | Darkvision 60 ft., Passive Perception 10",
+      "property | Languages | Common, Orc",
+      "property | Challenge | 2 (450 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aggressive.</strong></em> As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The orog makes two greataxe attacks.</p><p><em><strong>Greataxe.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d12 + 4) slashing damage.</p><p><em><strong>Javelin.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +6 to hit, reach 5 ft. or range 30/120 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Panther",
@@ -1201,6 +1515,29 @@
       "text | <p><em><strong>Shock.</strong></em> Melee Spell Attack: +4 to hit, reach 5 ft., one creature. <em>Hit:</em> 9 (2d8) lightning damage. </p><p><em><strong>Invisibility.</strong></em> The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).</p>"
     ],
     "tags": []
+  },
+  {
+    "title": "Winged Kobold",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Small humanoid, Lawful Evil",
+      "rule",
+      "property | Armor class | 13",
+      "property | Hit points | 7 (3d6 - 3)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 7 | 16 | 9 | 8 | 7 | 8",
+      "rule",
+      "property | Senses | Darkvision 60 ft., Passive Perception 8",
+      "property | Languages | Common, Draconic",
+      "property | Challenge | 1/4 (50 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Sunlight Sensitivity.</strong></em> While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p><p><em><strong>Pack Tactics.</strong></em> The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Dagger.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5ft., one target. <em>Hit:</em> 5 (1d4 + 3) piercing damage.</p><p><em><strong>Dropped Rock.</strong></em> <em>Ranged Weapon Attack:</em> +5 to hit, one target directly below the kobold. <em>Hit:</em> 6 (1d6 + 3) bludgeoning damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Winter Wolf",

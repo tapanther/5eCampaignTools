@@ -4,7 +4,7 @@
     "contents": [
       "subtitle | , ",
       "rule",
-      "property | Armor class |  ",
+      "property | Armor class | ",
       "property | Hit points | ",
       "property | Speed |  ft. ",
       "rule",
@@ -15,13 +15,36 @@
       "property | Damage Immunities | ",
       "property | Damage Resistances | ",
       "property | Condition Immunities | ",
-      "property | Senses | Passive Perception ",
+      "property | Senses | 
+Darkvision  ft., 
+Passive Perception ",
       "property | Languages | ",
       "property | Challenge | ",
       "section | Traits",
-      "text | <p><em><strong></strong></em> </p>",
+      "text | 
+<p><em><strong></strong></em> </p>
+<p><em><strong>Spellcasting.</strong></em> <p>
+<p>Cantrips (at will): </p>
+<p> 1st level ( slots): </p>
+<p> 2nd level ( slots): </p>
+<p> 3rd level ( slots): </p>
+<p> 4th level ( slots): </p>
+<p> 5th level ( slots): </p>
+<p> 6th level ( slots): </p>
+<p> 7th level ( slots): </p>
+<p> 8th level ( slots): </p>
+<p> 9th level ( slots): </p>
+",
       "section | Actions",
-      "text | <p><em><strong></strong></em> <em>Melee Weapon Attack:</em> + to hit, reach 5 ft., one target. <em>Hit:</em>  ()  damage.</p>"
+      "text | 
+<p><em><strong>Multiattack.</strong></em> </p>
+<p><em><strong></strong></em> <em>Melee Weapon Attack:</em> + to hit, reach 5 ft., one target. <em>Hit:</em>  ()  damage.</p>
+<p><em><strong></strong></em> <em>Ranged Weapon Attack:</em> + to hit, range  ft., one target. <em>Hit:</em>  ()  damage.</p>
+<p><em><strong></strong></em> <em>Melee or Ranged Weapon Attack:</em> + to hit, reach 5 ft. or range  ft., one target. <em>Hit:</em>  ()  damage.</p>
+<p><em><strong></strong></em> </p>
+",
+      "section | Reactions",
+      "text | <p><em><strong></strong></em> </p>"
     ],
     "tags": [],
     "color": ""
