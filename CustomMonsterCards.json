@@ -49,6 +49,30 @@
     "color": ""
   },
   {
+    "title": "Archer",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Any",
+      "rule",
+      "property | Armor class | 16 (Studded Leather Armor)",
+      "property | Hit points | 75 (10d8 + 30)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 11 | 18 | 16 | 11 | 13 | 10",
+      "rule",
+      "property | Skills | Acrobatics +6, Perception +5",
+      "property | Senses | Passive Perception 16",
+      "property | Languages | Any one language (usually Common)",
+      "property | Challenge | 3 (700 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Archer's Eye.</strong></em> As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The archer makes two attacks with its longbow.</p><p><em><strong>Shortsword.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.</p><p><em><strong>Longbow.</strong></em> <em>Ranged Weapon Attack:</em> +6 to hit, range 150/600 ft., one target. <em>Hit:</em> 8 (1d8 + 4) piercing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
     "title": "Archmage",
     "icon": "imp-laugh",
     "contents": [
@@ -234,6 +258,31 @@
       "text | <p><em><strong>Multiattack.</strong></em> The bear makes two attacks: one with its bite and one with its claws. </p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d8 + 4) piercing damage. </p><p><em><strong>Claws.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (2d6 + 4) slashing damage.</p>"
     ],
     "tags": []
+  },
+  {
+    "title": "Champion",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Any",
+      "rule",
+      "property | Armor class | 18 (Plate)",
+      "property | Hit points | 143 (22d8 + 44)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 20 | 15 | 14 | 10 | 14 | 12",
+      "rule",
+      "property | Saving Throws | STR +9, CON +6",
+      "property | Skills | Athletics +9, Intimidation +5, Perception +6",
+      "property | Senses | Passive Perception 16",
+      "property | Languages | Any one language (usually Common)",
+      "property | Challenge | 9 (5,000 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Indomitable (2/Day).</strong></em> The champion rerolls a failed saving throw.</p><p><em><strong>Second Wind (Recharges after a Short or Long Rest).</strong></em> As a bonus action, the champion can regain 20 hit points.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The champion makes three attacks with its greatsword or its light crossbow.</p><p><em><strong>Greatsword.</strong></em> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 12 (2d6 + 5) slashing damage, plus 7 (2d6) slashing damage if the champion has more than half of its total hit points remaining.</p><p><em><strong>Light Crossbow.</strong></em> <em>Ranged Weapon Attack:</em> +6 to hit, range 80/320 ft., one target. <em>Hit:</em> 6 (1d8 + 2) piercing damage, plus 7 (2d6) piercing damage if the champion has more than half of its total hit points remaining.</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Couatl",
@@ -594,6 +643,29 @@
     "tags": []
   },
   {
+    "title": "Giant Hyena",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Large beast, Unaligned",
+      "rule",
+      "property | Armor class | 12",
+      "property | Hit points | 45 (6d10 + 12)",
+      "property | Speed | 50 ft. ",
+      "rule",
+      "dndstats | 16 | 14 | 14 | 2 | 12 | 7",
+      "rule",
+      "property | Skills | Perception +3",
+      "property | Senses | Passive Perception 13",
+      "property | Challenge | 1 (200 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Rampage.</strong></em> When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) piercing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
     "title": "Gnoll",
     "icon": "imp-laugh",
     "contents": [
@@ -826,6 +898,29 @@
       "text | <p><em><strong>Multiattack.</strong></em> The hydra makes as many bite attacks as it has heads. </p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +8 to hit, reach 10 ft., one target. <em>Hit:</em> 10 (1d10 + 5) piercing damage.</p>"
     ],
     "tags": []
+  },
+  {
+    "title": "Hyena",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium beast, Unaligned",
+      "rule",
+      "property | Armor class | 11",
+      "property | Hit points | 5 (1d8 + 1)",
+      "property | Speed | 50 ft. ",
+      "rule",
+      "dndstats | 11 | 13 | 12 | 2 | 12 | 5",
+      "rule",
+      "property | Skills | Perception +3",
+      "property | Senses | Passive Perception 13",
+      "property | Challenge | 0 (10 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Pack Tactics.</strong></em> The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d6) piercing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Jackal",
@@ -1547,6 +1642,30 @@
       "text | <p><em><strong>Shortsword.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage. </p><p><em><strong>Shortbow.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, range 80/320 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>"
     ],
     "tags": []
+  },
+  {
+    "title": "Swashbuckler",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Any non-lawful",
+      "rule",
+      "property | Armor class | 17 (Leather Armor)",
+      "property | Hit points | 66 (12d8 + 12)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 12 | 18 | 12 | 14 | 11 | 15",
+      "rule",
+      "property | Skills | Acrobatics +8, Athletics +5, Persuasion +6",
+      "property | Senses | Passive Perception 10",
+      "property | Languages | Any one language (usually Common)",
+      "property | Challenge | 3 (700 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Lightfooted.</strong></em> The swashbuckler can take the Dash or Disengage action as a bonus action on each of its turns.</p><p><em><strong>Suave Defense.</strong></em> While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its Charisma modifier.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The swashbuckler makes three attacks: one with a dagger and two with its rapier.</p><p><em><strong>Dagger.</strong></em> <em>Melee or Ranged Weapon Attack:</em> +6 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p><p><em><strong>Rapier.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d8 + 4) piercing damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Troll",
