@@ -24,6 +24,31 @@
     "color": ""
   },
   {
+    "title": "Archdruid",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Any",
+      "rule",
+      "property | Armor class | 16 (Hide Armor, Shield)",
+      "property | Hit points | 132 (24d8 + 24)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 10 | 14 | 12 | 12 | 20 | 11",
+      "rule",
+      "property | Saving Throws | INT +5, WIS +9",
+      "property | Skills | Medicine +9, Nature +5, Perception +9",
+      "property | Senses | Passive Perception 19",
+      "property | Languages | Druidic plus any two languages",
+      "property | Challenge | 12 (8,400 XP)",
+      "section | Traits",
+      "text | <p><em><strong></strong></em> </p><p><em><strong>Spellcasting.</strong></em> The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:<p><p>Cantrips (at will): druidcraft, mending, poison spray, produce flame</p><p> 1st level (4 slots): cure wounds, entangle, faerie fire, speak with animals</p><p> 2nd level (3 slots): animal messenger, beast sense, hold person</p><p> 3rd level (3 slots): conjure animals, meld into stone, water breathing</p><p> 4th level (3 slots): dominate beast, locate creature, stoneskin, wall of fire</p><p> 5th level (3 slots): commune with nature, mass cure wounds, tree stride</p><p> 6th level (1 slots): heal, heroes' feast, sunbeam</p><p> 7th level (1 slots): fire storm</p><p> 8th level (1 slots): animal shapes</p><p> 9th level (1 slots): foresight</p>",
+      "section | Actions",
+      "text | <p><em><strong>Scimitar.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) slashing damage.</p><p><em><strong>Change Shape (2/Day).</strong></em> The archdruid magically polymorphs into a beast or elemental with a challenge rating of 6 or less, and can remain in this form for up to 9 hours. The archdruid can choose whether its equipment falls to the ground, melds with its new form, or is worn by the new form. The archdruid reverts to its true form if it dies or falls unconscious. The archdruid can revert to its true form using a bonus action on its turn.</p><p>While in a new form, the archdruid retains its game statistics and ability to speak, but its AC, movement modes, Strength, and Dexterity are replaced by those of the new form, and it gains any special senses, proficiencies, traits, actions, and reactions (except class features, legendary actions, and lair actions) that the new form has but that it lacks. It can cast its spells with verbal or somatic components in its new form.</p><p>The new form’s attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
     "title": "Archmage",
     "icon": "imp-laugh",
     "contents": [
@@ -1239,6 +1264,77 @@
     "color": ""
   },
   {
+    "title": "Orc Hand",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 12 (Hide Armor)",
+      "property | Hit points | 30 (4d8 + 12)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 12 | 11 | 16 | 11 | 14 | 9",
+      "rule",
+      "property | Skills | Arcana +2, Intimidation +1, Medicine +4, Religion +2",
+      "property | Senses | Darkvision 60 ft., Passive Perception 12",
+      "property | Languages | understands Common and Orc but can't speak",
+      "property | Challenge | 2 (450 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aggressive.</strong></em> As a bonus action, the or can move up to its speed toward a hostile creature that it can see.</p><p><em><strong>Spellcasting.</strong></em> The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:<p><p>Cantrips (at will): guidance, mending, resistance, thaumaturgy</p><p> 1st level (4 slots): bane, detect magic, inflict wounds, protection from evil and good</p><p> 2nd level (3 slots): blindness/deafness, silence</p>",
+      "section | Actions",
+      "text | <p><em><strong>Touch of the White Hand.</strong></em> <em>Melee Weapon Attack:</em> +3 to hit, reach 5ft., one target. <em>Hit:</em> 9 (2d8) necrotic damage.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Orc Nurtured One",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 9",
+      "property | Hit points | 30 (4d8 + 12)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 15 | 8 | 16 | 7 | 11 | 7",
+      "rule",
+      "property | Senses | Darkvision 60 ft., Passive Perception 10",
+      "property | Languages | Common, Orc",
+      "property | Challenge | 1/2 (100 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Aggressive.</strong></em> As a bonus action, the or can move up to its speed toward a hostile creature that it can see.</p><p><em><strong>Corrupted Carrier.</strong></em> When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (4d6) poison damage and becomes poisoned. On a success, the creature takes half as much damage and isn’t poisoned. A creature poisoned by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While poisoned by this effect, a creature can’t regain hit points.</p><p><em><strong>Nurtured One of Yurtus.</strong></em> The orc has advantage on saving throws against poison and disease.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Claws.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) slashing damage plus 2 (1d4) necrotic damage..</p><p><em><strong>Corrupted Vengeance.</strong></em> The orc reduced itself to 0 hit points, triggering its <em>Corrupted Carrier</em> trait.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "title": "Orc Red Fang",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium humanoid, Chaotic Evil",
+      "rule",
+      "property | Armor class | 15 (Studded Leather Armor)",
+      "property | Hit points | 52 (8d8 + 16)",
+      "property | Speed | 30 ft. ",
+      "rule",
+      "dndstats | 11 | 16 | 15 | 9 | 11 | 9",
+      "rule",
+      "property | Skills | Intimidation +1, Perception +2, Stealth +5",
+      "property | Senses | Darkvision 60 ft., Passive Perception 12",
+      "property | Languages | Common, Orc",
+      "property | Challenge | 3 (700 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Cunning Action.</strong></em> On each of its turns, the orc can use a bonus action to take the Dash, Disengage, or Hide action.</p><p><em><strong>Hand of Shargaas.</strong></em> The orc deals an 2 extra dice of damage when it hits a target with a weapon attack (included in its attacks).</p><p><em><strong>Shargaas' Sight.</strong></em> Magical darkness doesn’t impede the orc’s darkvision.</p><p><em><strong>Slayer.</strong></em> In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn’t taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The orc makes two scimitar or dart attacks.</p><p><em><strong>Scimitar.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (3d6 + 3) slashing damage.</p><p><em><strong>Dart.</strong></em> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., one target. <em>Hit:</em> 10 (3d4 + 3) piercing damage.</p><p><em><strong>Veil of Shargaas (Recharges after a Short or Long Rest).</strong></em> The orc casts darkness without any components. Wisdom is its spellcasting ability.</p>"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
     "title": "Orog",
     "icon": "imp-laugh",
     "contents": [
@@ -1399,6 +1495,33 @@
       "text | <p><em><strong>Multiattack.</strong></em> The scout makes two melee attacks or two ranged attacks. </p><p><em><strong>Shortsword.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage. </p><p><em><strong>Longbow.</strong></em> <em>Ranged Weapon Attack:</em> +4 to hit, ranged 150/600 ft., one target. <em>Hit:</em> 6 (1d8 + 2) piercing damage.</p>"
     ],
     "tags": []
+  },
+  {
+    "title": "Shoosuva",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Large fiend, Chaotic Evil",
+      "rule",
+      "property | Armor class | 14 (Natural Armor)",
+      "property | Hit points | 110 (13d10 + 39)",
+      "property | Speed | 40 ft. ",
+      "rule",
+      "dndstats | 18 | 13 | 17 | 7 | 14 | 9",
+      "rule",
+      "property | Saving Throws | DEX +4, CON +6, WIS +5",
+      "property | Damage Immunities | Poison",
+      "property | Damage Resistances | Cold, Fire, Lightning; Bludgeoning, piercing, and slashing from nonmagical attacks",
+      "property | Condition Immunities | Charmed, Frightened, Poisoned",
+      "property | Senses | Darkvision 60 ft., Passive Perception 12",
+      "property | Languages | Abyssal, Gnoll, telepathy 120 ft.",
+      "property | Challenge | 8 (3,900 XP)",
+      "section | Traits",
+      "text | <p><em><strong>Rampage.</strong></em> When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.</p>",
+      "section | Actions",
+      "text | <p><em><strong>Multiattack.</strong></em> The shoosuva makes two attacks: one with its bite and one with its tail stinger.</p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 26 (4d10 + 4) piercing damage.</p><p><em><strong>Tail Stinger.</strong></em> <em>Melee Weapon Attack:</em> +7 to hit, reach 15 ft., one target. <em>Hit:</em> 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success..</p>"
+    ],
+    "tags": [],
+    "color": ""
   },
   {
     "title": "Skeleton",
